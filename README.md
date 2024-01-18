@@ -12,7 +12,7 @@ The project aims to:
 2. Determine the best time series model for predicting the closing price of PT. Garuda Indonesia (Persero) Tbk using the ARIMA (Autoregressive Integrated Moving Average) method.
 3. Find out the forecast of the closing price of PT. Garuda Indonesia (Persero) Tbk using the ARIMA method for the period of June 1, 2018 - June 1, 2023.
 The R programming language and R Studio were used for the analysis. The relevant R code can be found in the files Uji Stationeritas, Spesifikasi Model, dan Estimasi Parameter.R and Diagnostik Model dan Peramalan.R.\
-\
+
 For more details, you can refer to the Final Project Report on Forecasting Method - Group 2.pdf in section 2.3 Data Analysis Method.\
 \
 The conclusion of this project is as follows:
