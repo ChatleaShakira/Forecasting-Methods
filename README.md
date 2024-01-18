@@ -28,6 +28,12 @@ For more in-depth details, please refer to the [Laporan Tugas Akhir Metode PERAM
 I would like to express my gratitude to the following individuals for their valuable contributions and support throughout the development of this project:
 - Jihan Sandrina Halim
 - Zahrah Mahfuzah
-I am also grateful to the open source community for their continuous inspiration and resources.
+
+Their hard work and teamwork have not only made this project possible but have also created an environment of creativity and efficiency. I am truly grateful for the opportunity to work alongside such talented individuals.
+
+Thank you for your outstanding contributions.
+
+Chatlea.
+
 
 
