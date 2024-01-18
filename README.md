@@ -31,7 +31,7 @@ I would like to express my gratitude to the following individuals for their valu
 
 Their hard work and teamwork have not only made this project possible but have also created an environment of creativity and efficiency. I am truly grateful for the opportunity to work alongside such talented individuals.
 
-Thank you for your outstanding contributions.
+Thank you for your outstanding contributions,
 
 Chatlea.
 
