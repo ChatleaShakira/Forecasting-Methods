@@ -5,7 +5,7 @@ Forecasting Methods is one of the elective courses in the Statistics program at 
 \
 The project I am sharing this time is the final project of the course titled "Forecasting Methods for the Stock Price Index of Garuda Indonesia Company in the International Stock Market from June 2018 to June 2023 for the Period of July 2023 to November 2023"\
 \
-The data for this project was obtained from Yahoo Finance and has been downloaded in CSV format, available in the file GIAA.JK.csv.\
+The data for this project was obtained from [Yahoo Finance](https://finance.yahoo.com/quote/GIAA.JK/history?p=GIAA.JK) and has been downloaded in CSV format, available in the file [GIAA.JK.csv.](https://github.com/ChatleaShakira/Forecasting-Methods/blob/0c6dec311edc38d079fa415d46d14c0d6f358c5c/GIAA.JK.csv)\
 \
 **Project Objectives:**
 1. Explain the data analysis process needed to obtain the best model suitable for forecasting.
