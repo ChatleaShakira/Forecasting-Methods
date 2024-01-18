@@ -13,7 +13,7 @@ The data for this project was obtained from Yahoo Finance and has been downloade
 3. Find out the forecast of the closing price of PT. Garuda Indonesia (Persero) Tbk using the ARIMA method for the period of June 1, 2018 - June 1, 2023.
 
 **Analysis Tools:**
-The analysis was conducted using the R programming language and R Studio. The relevant R code can be found in the files [Uji Stationeritas, Spesifikasi Model, dan Estimasi Parameter.R](https://github.com/ChatleaShakira/Forecasting-Methods/Uji-Stationeritas,-Spesifikasi-Model,-dan-Estimasi-Parameter.R) and [Diagnostik Model dan Peramalan.R](https://github.com/ChatleaShakira/Forecasting-Methods/Diagnostik-Model-dan-Peramalan.R).
+The analysis was conducted using the R programming language and R Studio. The relevant R code can be found in the files [Uji Stationeritas, Spesifikasi Model, dan Estimasi Parameter.R](https://github.com/ChatleaShakira/Forecasting-Methods/Uji-Stationeritas,-Spesifikasi-Model,-dan-Estimasi-Parameter.R) and [Diagnostik Model dan Peramalan.R](https://github.com/ChatleaShakira/Forecasting-Methods/blob/4c14fd0e7be6ef4ba3419e83c94190e68933ecc9/Diagnostic%20Model%20dan%20Peramalan.R).
 
 **Project Details:**
 For more in-depth details, please refer to the [Laporan Tugas Akhir Metode PERAMALAN - Kelompok 2.pdf](https://github.com/ChatleaShakira/Forecasting-Methods/blob/e5950104c778971689dd9e8eb1c9bc1424039753/Laporan%20Tugas%20Akhir%20Metode%20Peramalan%20-%20Kelompok%202.pdf) in section 2.3 Metode Analisis Data.
