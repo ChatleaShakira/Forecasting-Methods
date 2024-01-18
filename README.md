@@ -16,7 +16,7 @@ The data for this project was obtained from Yahoo Finance and has been downloade
 The analysis was conducted using the R programming language and R Studio. The relevant R code can be found in the files [Uji Stationeritas, Spesifikasi Model, dan Estimasi Parameter.R](https://github.com/ChatleaShakira/Forecasting-Methods/Uji-Stationeritas,-Spesifikasi-Model,-dan-Estimasi-Parameter.R) and [Diagnostik Model dan Peramalan.R](https://github.com/ChatleaShakira/Forecasting-Methods/Diagnostik-Model-dan-Peramalan.R).
 
 **Project Details:**
-For more in-depth details, please refer to the [Laporan Tugas Akhir Metode PERAMALAN - Kelompok 2.pdf](https://github.com/ChatleaShakira/Forecasting-Methods/Laporan-Tugas-Akhir-Metode-PERAMALAN---Kelompok-2) in section 2.3 Metode Analisis Data.
+For more in-depth details, please refer to the [Laporan Tugas Akhir Metode PERAMALAN - Kelompok 2.pdf](https://github.com/ChatleaShakira/Forecasting-Methods/blob/e5950104c778971689dd9e8eb1c9bc1424039753/Laporan%20Tugas%20Akhir%20Metode%20Peramalan%20-%20Kelompok%202.pdf) in section 2.3 Metode Analisis Data.
 \
 **Project Conclusion:**
 1. The data is likely to become stationary after differencing 1 time, suggesting that the proposed forecasting model for PT. Garuda Indonesia (Persero) Tbk is ARIMA(p,1,q).
